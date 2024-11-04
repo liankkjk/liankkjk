@@ -51,5 +51,5 @@
   
   <!-- Spotify -->
   <div style="flex-basis: 48%;">
-     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4jcgwbobrv2yqn4vy8ee1kw5l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+     
   </div>
