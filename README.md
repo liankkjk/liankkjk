@@ -1,51 +1,55 @@
-<h1 align="left">Eu me chamo Enzo Lian, seja bem-vindo ao meu perfil do Github!<br><br>- 🔭 Estudande de Desenvolvimento de Sistemas na ETEC (2/3)<br>- 📫 Contato: enzolian41@gmail.com</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liankkjk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liankkjk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Bem-vindo!</h1></summary>
 </div>
 
-###
+<!-- Presentation -->
+<p>
+  Eu me chamo Enzo Lian, seja bem-vindo ao meu perfil do Github!
 
-<h2 align="left">Estudando:</h2>
+- 🔭 Estudande de Desenvolvimento de Sistemas na ETEC (2/3)
+- 📫 Contato: enzolian41@gmail.com
+</p>
 
-###
+<!-- Dropdown -->
+<details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-</div>
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liankkjk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-mendes-17640b26a/)
 
-###
+<!-- GithubStats -->
+![liankkjk GitHub stats](https://github-readme-stats.vercel.app/api?username=liankkjk&show_icons=true&theme=gotham)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/enzo-mendes-17640b26a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/liankkjk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<!-- Portfolio -->
+## Portfolio:
+- [ empty ]()
 
-###
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47g6k0xkx5095eljntxfd6d96ek9km3rwhjohi4oki&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Imagem">
+</p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/liankkjk/liankkjk/output/snake.svg" alt="Snake animation" />
-
-###
+## 🔥 Estudando
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de programação</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
+  </div>
+  
+  <!-- Spotify -->
+  <div style="flex-basis: 48%;">
+     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4jcgwbobrv2yqn4vy8ee1kw5l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  </div>
