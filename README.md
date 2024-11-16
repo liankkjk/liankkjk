@@ -8,7 +8,7 @@
 <p>
   Eu me chamo Enzo Lian, seja bem-vindo ao meu perfil do Github!
 
-- 🔭 Estudande de Desenvolvimento de Sistemas na ETEC (2/3)
+- 📚 Estudande de Desenvolvimento de Sistemas na ETEC (2/3)
 - 📫 Contato: enzolian41@gmail.com
 </p>
 
