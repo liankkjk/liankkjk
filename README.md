@@ -21,6 +21,7 @@
 
 <!-- GithubStats -->
 ![liankkjk GitHub stats](https://github-readme-stats.vercel.app/api?username=liankkjk&show_icons=true&theme=gotham)
+![liankkjk GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liankkjk&layout=compact&langs_coun=16t&theme=gotham)
 
 <!-- Portfolio -->
 ## 📜 Portfólio:
@@ -35,7 +36,17 @@
     <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"> 
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
+    <img align="right" height="100" width="100" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47g6k0xkx5095eljntxfd6d96ek9km3rwhjohi4oki&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Imagem">
+    <br>
+    <br>
+    <br>
     <br>
   </div>
 
@@ -46,12 +57,6 @@
     <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
     <br>
   </div>
-
-##
-  <!-- GIF -->
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47g6k0xkx5095eljntxfd6d96ek9km3rwhjohi4oki&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Imagem">
-</p>
 
 ## 🎧 Música
   <!-- Spotify -->
